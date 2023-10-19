@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Oct 19 - 20, 2023
+- Class Date: Oct 19-20, 2023
 - Facilitator: @CalinL
 
 ## Class Resources
